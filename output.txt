@@ -1,0 +1,23 @@
+### Settlements Trade Out ###
+Trade Date is 23 Apr 2018 & amount is $26053.12
+Trade Date is 03 Apr 2018 & amount is $3762.50
+Trade Date is 18 Apr 2018 & amount is $4971.06
+Trade Date is 11 Apr 2018 & amount is $1126.88
+### ***** ###
+ 
+### Settlements Trade In ###
+Trade Date is 22 Apr 2018 & amount is $13784.38
+Trade Date is 09 Apr 2018 & amount is $3762.50
+Trade Date is 13 Apr 2018 & amount is $17368.31
+### ***** ###
+         
+### Settlements Ranking ###            
+boo and amount is $26053.12
+test4 and amount is $17368.31
+bar and amount is $13784.38
+test2 and amount is $3762.50
+test1 and amount is $3762.50
+test5 and amount is $3002.31
+foo and amount is $1968.75
+test3 and amount is $1126.88
+### ******* ###            
